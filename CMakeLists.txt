@@ -38,16 +38,6 @@ install(
     "${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAME}Config.cmake"
     "${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAME}ConfigVersion.cmake"
     "${CMAKE_CURRENT_SOURCE_DIR}/cmake/${PROJECT_NAME}Helpers.cmake"
+    "${CMAKE_CURRENT_SOURCE_DIR}/cmake/${PROJECT_NAME}.c.in"
     DESTINATION lib/cmake/${PROJECT_NAMESPACE}/${PROJECT_NAME}
-)
-
-configure_package_config_file(
-    "${CMAKE_CURRENT_SOURCE_DIR}/cmake/${PROJECT_NAMESPACE}Config.cmake.in"
-    "${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAMESPACE}Config.cmake"
-    INSTALL_DESTINATION lib/cmake/${PROJECT_NAMESPACE}
-)
-install(
-  FILES
-    "${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAMESPACE}Config.cmake"
-    DESTINATION lib/cmake/${PROJECT_NAMESPACE}
 )
