@@ -1,0 +1,25 @@
+#define IMPLEMENTS_FUNCTION_REGISTRY
+#include <RaeptorCogs/Cog/function_registry.h>
+#include <RaeptorCogs/Cog/prime_mover.h>
+
+int main(int argc, const char **argv) {
+  if (localize_cwd()) {
+    return 1;
+  }
+  const char *path = "./cogs/@COG_ENTRY_POINT@/lib@COG_ENTRY_POINT@.so";
+  void *handle;
+  void (*cog_entry_point)(int, const char **);
+  if (load_prime_mover(path, &handle, &cog_entry_point)) {
+    return 1;
+  }
+  static const char *cogs[] = {
+    // clang-format off
+      @COG_STARTER_COG_LIST_C@
+    // clang-format on
+  };
+  cog_entry_point(sizeof(cogs) / sizeof(cogs[0]), cogs);
+  if (unload_prime_mover(&handle)) {
+    return 1;
+  }
+  return 0;
+}

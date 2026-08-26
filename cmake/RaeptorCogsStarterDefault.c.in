@@ -1,0 +1,27 @@
+#include <RaeptorContainers/hash_table.h>
+#define IMPLEMENTS_FUNCTION_REGISTRY
+#include <RaeptorCogs/Cog/function_registry.h>
+#include <RaeptorCogs/Cog/prime_mover.h>
+
+int main(int argc, const char **argv) {
+  if (argc < 1) {
+    printf("Usage: %s [args...]\n", argv[0]);
+    return 1;
+  }
+  if (localize_cwd()) {
+    return 1;
+  }
+  const char *path = "./cogs/@COG_ENTRY_POINT@/lib@COG_ENTRY_POINT@.so";
+  void *handle;
+  void (*cog_entry_point)(int, const char **);
+  if (load_prime_mover(path, &handle, &cog_entry_point)) {
+    return 1;
+  }
+  cog_entry_point(argc, argv);
+  if (unload_prime_mover(&handle)) {
+    return 1;
+  }
+  hash_table_free(fn_registry->table);
+  free(fn_registry);
+  return 0;
+}

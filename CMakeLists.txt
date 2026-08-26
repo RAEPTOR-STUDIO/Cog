@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
 project(Cog LANGUAGES C)
 set(PROJECT_NAMESPACE RaeptorCogs)
+set(STARTER Starter)
 set(CMAKE_C_STANDARD 23)
 
 add_library(${PROJECT_NAME} INTERFACE)
@@ -39,5 +40,18 @@ install(
     "${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAME}ConfigVersion.cmake"
     "${CMAKE_CURRENT_SOURCE_DIR}/cmake/${PROJECT_NAME}Helpers.cmake"
     "${CMAKE_CURRENT_SOURCE_DIR}/cmake/${PROJECT_NAME}.c.in"
+    "${CMAKE_CURRENT_SOURCE_DIR}/cmake/${PROJECT_NAMESPACE}${STARTER}Default.c.in"
+    "${CMAKE_CURRENT_SOURCE_DIR}/cmake/${PROJECT_NAMESPACE}${STARTER}Static.c.in"
     DESTINATION lib/cmake/${PROJECT_NAMESPACE}/${PROJECT_NAME}
+)
+
+configure_package_config_file(
+    "${CMAKE_CURRENT_SOURCE_DIR}/cmake/${PROJECT_NAMESPACE}Config.cmake.in"
+    "${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAMESPACE}Config.cmake"
+    INSTALL_DESTINATION lib/cmake/${PROJECT_NAMESPACE}
+)
+install(
+  FILES
+    "${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAMESPACE}Config.cmake"
+    DESTINATION lib/cmake/${PROJECT_NAMESPACE}
 )
