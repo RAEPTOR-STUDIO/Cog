@@ -1,5 +1,3 @@
-#define IMPLEMENTS_FUNCTION_REGISTRY
-#include <RaeptorCogs/Cog/function_registry.h>
 #include <RaeptorCogs/Cog/prime_mover.h>
 
 int main(int argc, const char **argv) {
