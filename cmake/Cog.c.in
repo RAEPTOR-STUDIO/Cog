@@ -1,3 +1,3 @@
 #include <RaeptorCogs/Cog/cog.h>
 
-cog_build("@name@");
+cog_build("@name@", "@COG_VERSION@");

@@ -39,6 +39,7 @@ install(
     "${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAME}Config.cmake"
     "${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAME}ConfigVersion.cmake"
     "${CMAKE_CURRENT_SOURCE_DIR}/cmake/${PROJECT_NAME}Helpers.cmake"
+    "${CMAKE_CURRENT_SOURCE_DIR}/cmake/${PROJECT_NAME}InfoBuilder.cmake"
     "${CMAKE_CURRENT_SOURCE_DIR}/cmake/${PROJECT_NAME}.c.in"
     "${CMAKE_CURRENT_SOURCE_DIR}/cmake/${PROJECT_NAMESPACE}${STARTER}Default.c.in"
     "${CMAKE_CURRENT_SOURCE_DIR}/cmake/${PROJECT_NAMESPACE}${STARTER}Static.c.in"

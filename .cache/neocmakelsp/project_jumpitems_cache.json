@@ -1,102 +1,323 @@
 {
-  "date": "2026-08-30T03:20:39.924202891+02:00",
+  "date": "2026-09-16T17:44:34.535497094+02:00",
   "data": {
-    "maybe_else": {
-      "location": {
-        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-        "range": {
-          "start": {
-            "line": 699,
-            "character": 8
-          },
-          "end": {
-            "line": 699,
-            "character": 18
-          }
-        }
-      },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-      "is_function": false
-    },
-    "COG_STARTER_TYPE": {
+    "CogRequireCogsDomains": {
       "location": {
         "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
         "range": {
           "start": {
-            "line": 115,
+            "line": 135,
+            "character": 9
+          },
+          "end": {
+            "line": 135,
+            "character": 30
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": true
+    },
+    "code_cygpath_make": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1833,
+            "character": 10
+          },
+          "end": {
+            "line": 1833,
+            "character": 27
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_ep_get_build_command": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1710,
+            "character": 9
+          },
+          "end": {
+            "line": 1710,
+            "character": 30
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "name": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1626,
+            "character": 12
+          },
+          "end": {
+            "line": 1626,
+            "character": 16
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "file_deps": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2877,
             "character": 6
           },
           "end": {
-            "line": 115,
-            "character": 22
+            "line": 2877,
+            "character": 15
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "stamp_default": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1487,
+            "character": 8
+          },
+          "end": {
+            "line": 1487,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "COGS_TYPE": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 25,
+            "character": 8
+          },
+          "end": {
+            "line": 25,
+            "character": 17
           }
         }
       },
       "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
       "is_function": false
     },
-    "_multi": {
-      "location": {
-        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-        "range": {
-          "start": {
-            "line": 622,
-            "character": 6
-          },
-          "end": {
-            "line": 622,
-            "character": 12
-          }
-        }
-      },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-      "is_function": false
-    },
-    "CVF_VERSION": {
+    "_compatibilityTemplate": {
       "location": {
         "uri": "file:///usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
         "range": {
           "start": {
-            "line": 51,
-            "character": 10
+            "line": 39,
+            "character": 8
           },
           "end": {
-            "line": 51,
+            "line": 39,
+            "character": 30
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+      "is_function": false
+    },
+    "_ep_step_add_target": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2026,
+            "character": 9
+          },
+          "end": {
+            "line": 2026,
+            "character": 28
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "COG_STARTER_COG_LIST": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 161,
+            "character": 6
+          },
+          "end": {
+            "line": 161,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": false
+    },
+    "binary_default": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1486,
+            "character": 8
+          },
+          "end": {
+            "line": 1486,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "STARTER": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 4
+          },
+          "end": {
+            "line": 3,
+            "character": 11
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/CMakeLists.txt",
+      "is_function": false
+    },
+    "steps": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2139,
+            "character": 6
+          },
+          "end": {
+            "line": 2139,
+            "character": 11
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "type": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1627,
+            "character": 12
+          },
+          "end": {
+            "line": 1627,
+            "character": 16
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "COGS_TYPE_BINARY": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+        "range": {
+          "start": {
+            "line": 0,
+            "character": 4
+          },
+          "end": {
+            "line": 0,
+            "character": 20
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+      "is_function": false
+    },
+    "CogAttachLib": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 66,
+            "character": 9
+          },
+          "end": {
+            "line": 66,
             "character": 21
           }
         }
       },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
-      "is_function": false
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": true
     },
-    "CVF_ARCH_INDEPENDENT_CHECK": {
+    "ExternalProject_Add_StepDependencies": {
       "location": {
-        "uri": "file:///usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
         "range": {
           "start": {
-            "line": 56,
-            "character": 8
+            "line": 2525,
+            "character": 9
           },
           "end": {
-            "line": 56,
-            "character": 34
+            "line": 2525,
+            "character": 45
           }
         }
       },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "COGS_PURITY_LEVEL": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 4
+          },
+          "end": {
+            "line": 3,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
       "is_function": false
     },
-    "_options": {
+    "absInstallDir": {
       "location": {
         "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
         "range": {
           "start": {
-            "line": 615,
-            "character": 6
+            "line": 476,
+            "character": 8
           },
           "end": {
-            "line": 615,
-            "character": 14
+            "line": 476,
+            "character": 21
           }
         }
       },
@@ -120,107 +341,73 @@
       "document_info": "defined function\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
       "is_function": true
     },
-    "CMAKE_C_STANDARD": {
+    "prefix": {
       "location": {
-        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/CMakeLists.txt",
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
         "range": {
           "start": {
-            "line": 4,
-            "character": 4
+            "line": 1469,
+            "character": 12
           },
           "end": {
-            "line": 4,
-            "character": 20
+            "line": 1469,
+            "character": 18
           }
         }
       },
-      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/CMakeLists.txt",
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
       "is_function": false
     },
-    "COG_STARTER_COG_LIST_C": {
+    "_ep_get_configure_command_id": {
       "location": {
-        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
         "range": {
           "start": {
-            "line": 120,
-            "character": 8
-          },
-          "end": {
-            "line": 120,
-            "character": 30
-          }
-        }
-      },
-      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
-      "is_function": false
-    },
-    "CogStarterAddCogs": {
-      "location": {
-        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
-        "range": {
-          "start": {
-            "line": 108,
+            "line": 1681,
             "character": 9
           },
           "end": {
-            "line": 108,
-            "character": 26
+            "line": 1681,
+            "character": 37
           }
         }
       },
-      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
       "is_function": true
     },
-    "EXTERNAL_INSTALL_DIR": {
+    "CogCreateInfoFile": {
       "location": {
-        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
         "range": {
           "start": {
-            "line": 38,
-            "character": 6
+            "line": 5,
+            "character": 9
           },
           "end": {
-            "line": 38,
+            "line": 5,
             "character": 26
           }
         }
       },
-      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
-      "is_function": false
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+      "is_function": true
     },
-    "_branch_INIT": {
+    "_ep_set_directories": {
       "location": {
-        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
         "range": {
           "start": {
-            "line": 588,
-            "character": 8
+            "line": 1462,
+            "character": 9
           },
           "end": {
-            "line": 588,
-            "character": 20
+            "line": 1462,
+            "character": 28
           }
         }
       },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-      "is_function": false
-    },
-    "_config_file_options": {
-      "location": {
-        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-        "range": {
-          "start": {
-            "line": 553,
-            "character": 6
-          },
-          "end": {
-            "line": 553,
-            "character": 26
-          }
-        }
-      },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-      "is_function": false
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
     },
     "multiValueArgs": {
       "location": {
@@ -233,40 +420,6 @@
           "end": {
             "line": 449,
             "character": 20
-          }
-        }
-      },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-      "is_function": false
-    },
-    "_config_file": {
-      "location": {
-        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-        "range": {
-          "start": {
-            "line": 594,
-            "character": 10
-          },
-          "end": {
-            "line": 594,
-            "character": 22
-          }
-        }
-      },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-      "is_function": false
-    },
-    "arch": {
-      "location": {
-        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-        "range": {
-          "start": {
-            "line": 678,
-            "character": 8
-          },
-          "end": {
-            "line": 678,
-            "character": 12
           }
         }
       },
@@ -290,21 +443,956 @@
       "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
       "is_function": false
     },
-    "options": {
+    "_single": {
       "location": {
         "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
         "range": {
           "start": {
-            "line": 447,
+            "line": 616,
             "character": 6
           },
           "end": {
-            "line": 447,
+            "line": 616,
             "character": 13
           }
         }
       },
       "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "ExternalProject_Get_Property": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1668,
+            "character": 9
+          },
+          "end": {
+            "line": 1668,
+            "character": 37
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "setArg": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1629,
+            "character": 12
+          },
+          "end": {
+            "line": 1629,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "CogInfoFileUpdateDomainDependencies": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+        "range": {
+          "start": {
+            "line": 23,
+            "character": 9
+          },
+          "end": {
+            "line": 23,
+            "character": 44
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+      "is_function": true
+    },
+    "arch": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 678,
+            "character": 8
+          },
+          "end": {
+            "line": 678,
+            "character": 12
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "line": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1615,
+            "character": 10
+          },
+          "end": {
+            "line": 1615,
+            "character": 14
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "COG_VERSION": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 57,
+            "character": 6
+          },
+          "end": {
+            "line": 57,
+            "character": 17
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": false
+    },
+    "_ep_add_install_command": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2977,
+            "character": 9
+          },
+          "end": {
+            "line": 2977,
+            "character": 32
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "_ep_extract_configure_command": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2635,
+            "character": 9
+          },
+          "end": {
+            "line": 2635,
+            "character": 38
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "CogRequireCogs": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 123,
+            "character": 9
+          },
+          "end": {
+            "line": 123,
+            "character": 23
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": true
+    },
+    "CogLoad": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 73,
+            "character": 9
+          },
+          "end": {
+            "line": 73,
+            "character": 16
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": true
+    },
+    "_EP_LOG_DIR": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1527,
+            "character": 6
+          },
+          "end": {
+            "line": 1527,
+            "character": 17
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "ExternalProject_Add_StepTargets": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2137,
+            "character": 9
+          },
+          "end": {
+            "line": 2137,
+            "character": 40
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "top": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1499,
+            "character": 6
+          },
+          "end": {
+            "line": 1499,
+            "character": 9
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "COGS_DIR": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 1,
+            "character": 4
+          },
+          "end": {
+            "line": 1,
+            "character": 12
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": false
+    },
+    "CogExtends": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 182,
+            "character": 9
+          },
+          "end": {
+            "line": 182,
+            "character": 19
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": true
+    },
+    "script": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1899,
+            "character": 6
+          },
+          "end": {
+            "line": 1899,
+            "character": 12
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake\n\nWrap the command in a script to log output to files.",
+      "is_function": false
+    },
+    "vars": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1580,
+            "character": 6
+          },
+          "end": {
+            "line": 1580,
+            "character": 10
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "CMAKE_C_STANDARD": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 4
+          },
+          "end": {
+            "line": 4,
+            "character": 20
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/CMakeLists.txt",
+      "is_function": false
+    },
+    "COGS_TYPE_PRIME_MOVER": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 4
+          },
+          "end": {
+            "line": 2,
+            "character": 25
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+      "is_function": false
+    },
+    "generate_apple_architecture_selection_file": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 614,
+            "character": 9
+          },
+          "end": {
+            "line": 614,
+            "character": 51
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": true
+    },
+    "${cfg_cmd_id_var}": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1703,
+            "character": 12
+          },
+          "end": {
+            "line": 1703,
+            "character": 29
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "CogStarterSetType": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 163,
+            "character": 9
+          },
+          "end": {
+            "line": 163,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": true
+    },
+    "COG_STARTER_TYPE": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 164,
+            "character": 6
+          },
+          "end": {
+            "line": 164,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": false
+    },
+    "stdout_log": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1913,
+            "character": 8
+          },
+          "end": {
+            "line": 1913,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "installPrefix": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 468,
+            "character": 8
+          },
+          "end": {
+            "line": 468,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "maybe_WORKING_DIRECTORY": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2357,
+            "character": 8
+          },
+          "end": {
+            "line": 2357,
+            "character": 31
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_ep_get_configuration_subdir_genex": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1981,
+            "character": 9
+          },
+          "end": {
+            "line": 1981,
+            "character": 43
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake\n\nOn single-config generators, this is empty.",
+      "is_function": true
+    },
+    "_branch_INIT": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 588,
+            "character": 8
+          },
+          "end": {
+            "line": 588,
+            "character": 20
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "PACKAGE_INIT": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 496,
+            "character": 6
+          },
+          "end": {
+            "line": 496,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "accumulator": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1622,
+            "character": 12
+          },
+          "end": {
+            "line": 1622,
+            "character": 23
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "make": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1830,
+            "character": 8
+          },
+          "end": {
+            "line": 1830,
+            "character": 12
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "CogStarterAddCogs": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 157,
+            "character": 9
+          },
+          "end": {
+            "line": 157,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": true
+    },
+    "versionTemplateFile": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+        "range": {
+          "start": {
+            "line": 42,
+            "character": 6
+          },
+          "end": {
+            "line": 42,
+            "character": 25
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+      "is_function": false
+    },
+    "_ep_replace_location_tags": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1579,
+            "character": 6
+          },
+          "end": {
+            "line": 1579,
+            "character": 31
+          }
+        }
+      },
+      "document_info": "defined macro\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake\n\n",
+      "is_function": true
+    },
+    "ExternalProject_Add": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 3161,
+            "character": 9
+          },
+          "end": {
+            "line": 3161,
+            "character": 28
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "maybe_USES_TERMINAL": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2381,
+            "character": 8
+          },
+          "end": {
+            "line": 2381,
+            "character": 27
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "IS_REMOTE": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 78,
+            "character": 8
+          },
+          "end": {
+            "line": 78,
+            "character": 17
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": false
+    },
+    "COG_ENTRY_POINT": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 155,
+            "character": 6
+          },
+          "end": {
+            "line": 155,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": false
+    },
+    "source_default": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1485,
+            "character": 8
+          },
+          "end": {
+            "line": 1485,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "CogDeclareDomain": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 113,
+            "character": 9
+          },
+          "end": {
+            "line": 113,
+            "character": 25
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": true
+    },
+    "download_default": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1484,
+            "character": 8
+          },
+          "end": {
+            "line": 1484,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "PACKAGE_${var}": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 489,
+            "character": 12
+          },
+          "end": {
+            "line": 489,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "maybe_COMMAND_touch": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2412,
+            "character": 8
+          },
+          "end": {
+            "line": 2412,
+            "character": 27
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_EP_BINARY_DIR": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1555,
+            "character": 10
+          },
+          "end": {
+            "line": 1555,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_ep_get_file_deps": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2607,
+            "character": 9
+          },
+          "end": {
+            "line": 2607,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "cmf_dir": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 3188,
+            "character": 6
+          },
+          "end": {
+            "line": 3188,
+            "character": 13
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake\n\nAdd a custom target for the external project.",
+      "is_function": false
+    },
+    "_branch_${_opt}": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 602,
+            "character": 10
+          },
+          "end": {
+            "line": 602,
+            "character": 25
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "_ep_to_single_cmake_path": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1448,
+            "character": 9
+          },
+          "end": {
+            "line": 1448,
+            "character": 33
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake\n\nfile(TO_CMAKE_PATH).",
+      "is_function": true
+    },
+    "dependers_args": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 3106,
+            "character": 12
+          },
+          "end": {
+            "line": 3106,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "dependees_args": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 3096,
+            "character": 10
+          },
+          "end": {
+            "line": 3096,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "ExternalProject_Add_Step": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2177,
+            "character": 9
+          },
+          "end": {
+            "line": 2177,
+            "character": 33
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake\n\ninterface of ExternalProject.",
+      "is_function": true
+    },
+    "maybe_else": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 699,
+            "character": 8
+          },
+          "end": {
+            "line": 699,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "CogExtendsCogsDomains": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 143,
+            "character": 9
+          },
+          "end": {
+            "line": 143,
+            "character": 30
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": true
+    },
+    "exclude_args": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 3108,
+            "character": 10
+          },
+          "end": {
+            "line": 3108,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "unsafe_char": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1452,
+            "character": 8
+          },
+          "end": {
+            "line": 1452,
+            "character": 19
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
       "is_function": false
     },
     "maybe_INSTALL_PREFIX": {
@@ -324,51 +1412,646 @@
       "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
       "is_function": false
     },
-    "COGS_DIR": {
+    "CogInfoFileCreate": {
       "location": {
-        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
         "range": {
           "start": {
-            "line": 0,
-            "character": 4
+            "line": 5,
+            "character": 9
           },
           "end": {
-            "line": 0,
-            "character": 12
+            "line": 5,
+            "character": 26
           }
         }
       },
-      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
-      "is_function": false
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+      "is_function": true
     },
-    "IS_REMOTE": {
+    "stampfile": {
       "location": {
-        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
         "range": {
           "start": {
-            "line": 45,
-            "character": 8
+            "line": 2020,
+            "character": 6
           },
           "end": {
-            "line": 45,
+            "line": 2020,
+            "character": 15
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_ep_write_log_script": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1815,
+            "character": 9
+          },
+          "end": {
+            "line": 1815,
+            "character": 29
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "_value": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2312,
+            "character": 12
+          },
+          "end": {
+            "line": 2312,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "options": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 447,
+            "character": 6
+          },
+          "end": {
+            "line": 447,
+            "character": 13
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "value": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1628,
+            "character": 12
+          },
+          "end": {
+            "line": 1628,
             "character": 17
           }
         }
       },
-      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
       "is_function": false
     },
-    "CogLoad": {
+    "_else": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 591,
+            "character": 6
+          },
+          "end": {
+            "line": 591,
+            "character": 11
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "suffix": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1993,
+            "character": 10
+          },
+          "end": {
+            "line": 1993,
+            "character": 16
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_EP_${VAR}_DIR": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1514,
+            "character": 8
+          },
+          "end": {
+            "line": 1514,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "__cmdQuoted": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 3140,
+            "character": 8
+          },
+          "end": {
+            "line": 3140,
+            "character": 19
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_ep_add_test_command": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 3072,
+            "character": 9
+          },
+          "end": {
+            "line": 3072,
+            "character": 29
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "COG_STARTER_COG_LIST_C": {
       "location": {
         "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
         "range": {
           "start": {
-            "line": 37,
+            "line": 169,
+            "character": 8
+          },
+          "end": {
+            "line": 169,
+            "character": 30
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": false
+    },
+    "_ep_add_mkdir_command": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2594,
             "character": 9
           },
           "end": {
-            "line": 37,
+            "line": 2594,
+            "character": 30
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "script_filename": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2596,
+            "character": 6
+          },
+          "end": {
+            "line": 2596,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "keywords": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2182,
+            "character": 6
+          },
+          "end": {
+            "line": 2182,
+            "character": 14
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "dependees": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2823,
+            "character": 8
+          },
+          "end": {
+            "line": 2823,
+            "character": 17
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_ep_step_add_target_dependencies": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2082,
+            "character": 9
+          },
+          "end": {
+            "line": 2082,
+            "character": 41
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "environment": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 3137,
+            "character": 10
+          },
+          "end": {
+            "line": 3137,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "cmd": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2651,
+            "character": 10
+          },
+          "end": {
+            "line": 2651,
+            "character": 13
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "script_initial_cache": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1606,
+            "character": 6
+          },
+          "end": {
+            "line": 1606,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_ep_add_build_command": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2874,
+            "character": 9
+          },
+          "end": {
+            "line": 2874,
+            "character": 30
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "CogInfoFileUpdateVersion": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+        "range": {
+          "start": {
+            "line": 14,
+            "character": 9
+          },
+          "end": {
+            "line": 14,
+            "character": 33
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+      "is_function": true
+    },
+    "args": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1796,
+            "character": 10
+          },
+          "end": {
+            "line": 1796,
+            "character": 14
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_indent": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 710,
+            "character": 8
+          },
+          "end": {
+            "line": 710,
+            "character": 15
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "COGS_TYPE_DOMAIN": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+        "range": {
+          "start": {
+            "line": 1,
+            "character": 4
+          },
+          "end": {
+            "line": 1,
+            "character": 20
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+      "is_function": false
+    },
+    "_config_file_options": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 553,
+            "character": 6
+          },
+          "end": {
+            "line": 553,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "cog": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+        "range": {
+          "start": {
+            "line": 5,
+            "character": 27
+          },
+          "end": {
+            "line": 5,
+            "character": 30
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+      "is_function": true
+    },
+    "CogStarterCreate": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 166,
+            "character": 9
+          },
+          "end": {
+            "line": 166,
+            "character": 25
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": true
+    },
+    "${out_var}": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1459,
+            "character": 6
+          },
+          "end": {
+            "line": 1459,
             "character": 16
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_options": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 615,
+            "character": 6
+          },
+          "end": {
+            "line": 615,
+            "character": 14
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "config": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1853,
+            "character": 8
+          },
+          "end": {
+            "line": 1853,
+            "character": 14
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "regex": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1607,
+            "character": 6
+          },
+          "end": {
+            "line": 1607,
+            "character": 11
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_multi": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 622,
+            "character": 6
+          },
+          "end": {
+            "line": 622,
+            "character": 12
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "config_file": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 691,
+            "character": 8
+          },
+          "end": {
+            "line": 691,
+            "character": 19
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "CogInfoFileUpdateExtends": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+        "range": {
+          "start": {
+            "line": 43,
+            "character": 9
+          },
+          "end": {
+            "line": 43,
+            "character": 33
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogInfoBuilder.cmake",
+      "is_function": true
+    },
+    "EXTERNAL_INSTALL_DIR": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 77,
+            "character": 6
+          },
+          "end": {
+            "line": 77,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": false
+    },
+    "${var}": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1676,
+            "character": 8
+          },
+          "end": {
+            "line": 1676,
+            "character": 14
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "CogExtendsDomains": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 165,
+            "character": 9
+          },
+          "end": {
+            "line": 165,
+            "character": 26
           }
         }
       },
@@ -392,6 +2075,74 @@
       "document_info": "defined function\nfrom: /usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
       "is_function": true
     },
+    "log": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 3118,
+            "character": 10
+          },
+          "end": {
+            "line": 3118,
+            "character": 13
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "uses_terminal": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 3128,
+            "character": 10
+          },
+          "end": {
+            "line": 3128,
+            "character": 23
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "code_execute_process": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1859,
+            "character": 8
+          },
+          "end": {
+            "line": 1859,
+            "character": 28
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "tmp_default": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1483,
+            "character": 8
+          },
+          "end": {
+            "line": 1483,
+            "character": 19
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
     "_branch_code": {
       "location": {
         "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
@@ -409,157 +2160,293 @@
       "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
       "is_function": false
     },
-    "absInstallDir": {
+    "COG_TYPE": {
       "location": {
-        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
         "range": {
           "start": {
-            "line": 476,
+            "line": 45,
+            "character": 14
+          },
+          "end": {
+            "line": 45,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": false
+    },
+    "independent": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2211,
             "character": 8
           },
           "end": {
-            "line": 476,
-            "character": 21
+            "line": 2211,
+            "character": 19
           }
         }
       },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
       "is_function": false
     },
-    "_else": {
+    "\"${var}\"": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2787,
+            "character": 6
+          },
+          "end": {
+            "line": 2787,
+            "character": 14
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "CONFIGURE_PACKAGE_CONFIG_FILE": {
       "location": {
         "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
         "range": {
           "start": {
-            "line": 591,
-            "character": 6
-          },
-          "end": {
-            "line": 591,
-            "character": 11
-          }
-        }
-      },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-      "is_function": false
-    },
-    "_compatibilityTemplate": {
-      "location": {
-        "uri": "file:///usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
-        "range": {
-          "start": {
-            "line": 39,
-            "character": 8
-          },
-          "end": {
-            "line": 39,
-            "character": 30
-          }
-        }
-      },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
-      "is_function": false
-    },
-    "versionTemplateFile": {
-      "location": {
-        "uri": "file:///usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
-        "range": {
-          "start": {
-            "line": 42,
-            "character": 6
-          },
-          "end": {
-            "line": 42,
-            "character": 25
-          }
-        }
-      },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
-      "is_function": false
-    },
-    "generate_apple_architecture_selection_file": {
-      "location": {
-        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-        "range": {
-          "start": {
-            "line": 614,
+            "line": 446,
             "character": 9
           },
           "end": {
-            "line": 614,
-            "character": 51
+            "line": 446,
+            "character": 38
           }
         }
       },
       "document_info": "defined function\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
       "is_function": true
     },
-    "CogStarterSetEntryPoint": {
+    "_ep_command_line_to_initial_cache": {
       "location": {
-        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
         "range": {
           "start": {
-            "line": 105,
+            "line": 1601,
             "character": 9
           },
           "end": {
-            "line": 105,
-            "character": 32
+            "line": 1601,
+            "character": 42
           }
         }
       },
-      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
       "is_function": true
     },
-    "CogStarterCreate": {
+    "env_args": {
       "location": {
-        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
         "range": {
           "start": {
-            "line": 117,
+            "line": 2309,
+            "character": 8
+          },
+          "end": {
+            "line": 2309,
+            "character": 16
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "comment": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2292,
+            "character": 8
+          },
+          "end": {
+            "line": 2292,
+            "character": 15
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "${stampfile_var}": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2022,
+            "character": 6
+          },
+          "end": {
+            "line": 2022,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "${suffix_var}": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1996,
+            "character": 6
+          },
+          "end": {
+            "line": 1996,
+            "character": 19
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "${cmd_var}": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1975,
+            "character": 6
+          },
+          "end": {
+            "line": 1975,
+            "character": 16
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "CVF_ARCH_INDEPENDENT_CHECK": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+        "range": {
+          "start": {
+            "line": 56,
+            "character": 8
+          },
+          "end": {
+            "line": 56,
+            "character": 34
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+      "is_function": false
+    },
+    "places": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1502,
+            "character": 6
+          },
+          "end": {
+            "line": 1502,
+            "character": 12
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake\n\nApply defaults and convert to absolute paths.",
+      "is_function": false
+    },
+    "always": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 3024,
+            "character": 8
+          },
+          "end": {
+            "line": 3024,
+            "character": 14
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_ep_get_step_stampfile": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2000,
             "character": 9
           },
           "end": {
-            "line": 117,
-            "character": 25
+            "line": 2000,
+            "character": 31
           }
         }
       },
-      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
       "is_function": true
     },
-    "installPrefix": {
+    "maybe_JOB_SERVER_AWARE": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 3039,
+            "character": 8
+          },
+          "end": {
+            "line": 3039,
+            "character": 30
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_config_file": {
       "location": {
         "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
         "range": {
           "start": {
-            "line": 468,
-            "character": 8
+            "line": 594,
+            "character": 10
           },
           "end": {
-            "line": 468,
-            "character": 21
+            "line": 594,
+            "character": 22
           }
         }
       },
       "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
       "is_function": false
     },
-    "_indent": {
+    "_EP_GIT_REPOSITORY": {
       "location": {
-        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
         "range": {
           "start": {
-            "line": 710,
+            "line": 3239,
             "character": 8
           },
           "end": {
-            "line": 710,
-            "character": 15
+            "line": 3239,
+            "character": 26
           }
         }
       },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
       "is_function": false
     },
     "CogCreate": {
@@ -567,11 +2454,11 @@
         "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
         "range": {
           "start": {
-            "line": 3,
+            "line": 5,
             "character": 9
           },
           "end": {
-            "line": 3,
+            "line": 5,
             "character": 18
           }
         }
@@ -579,89 +2466,89 @@
       "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
       "is_function": true
     },
-    "PACKAGE_INIT": {
+    "stderr_log": {
       "location": {
-        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
         "range": {
           "start": {
-            "line": 496,
-            "character": 6
+            "line": 1914,
+            "character": 8
           },
           "end": {
-            "line": 496,
+            "line": 1914,
             "character": 18
           }
         }
       },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
       "is_function": false
     },
-    "WRITE_BASIC_PACKAGE_VERSION_FILE": {
+    "complete_outputs": {
       "location": {
-        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
         "range": {
           "start": {
-            "line": 442,
-            "character": 6
+            "line": 3253,
+            "character": 8
           },
           "end": {
-            "line": 442,
-            "character": 38
+            "line": 3253,
+            "character": 24
           }
         }
       },
-      "document_info": "defined macro\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-      "is_function": true
-    },
-    "PACKAGE_${var}": {
-      "location": {
-        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-        "range": {
-          "start": {
-            "line": 489,
-            "character": 12
-          },
-          "end": {
-            "line": 489,
-            "character": 26
-          }
-        }
-      },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
       "is_function": false
     },
-    "CogStarterSetType": {
+    "_EP_SOURCE_SUBDIR": {
       "location": {
-        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
         "range": {
           "start": {
-            "line": 114,
-            "character": 9
+            "line": 1542,
+            "character": 8
           },
           "end": {
-            "line": 114,
-            "character": 26
+            "line": 1542,
+            "character": 25
           }
         }
       },
-      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
-      "is_function": true
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
     },
-    "STARTER": {
+    "has_cmake_cache_args": {
       "location": {
-        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/CMakeLists.txt",
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
         "range": {
           "start": {
-            "line": 3,
-            "character": 4
+            "line": 2673,
+            "character": 10
           },
           "end": {
-            "line": 3,
-            "character": 11
+            "line": 2673,
+            "character": 30
           }
         }
       },
-      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/CMakeLists.txt",
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "command": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2437,
+            "character": 8
+          },
+          "end": {
+            "line": 2437,
+            "character": 15
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake\n\navoid this issue.",
       "is_function": false
     },
     "PROJECT_NAMESPACE": {
@@ -681,123 +2568,395 @@
       "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/CMakeLists.txt",
       "is_function": false
     },
-    "COG_ENTRY_POINT": {
+    "_ep_write_initial_cache": {
       "location": {
-        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
         "range": {
           "start": {
-            "line": 106,
-            "character": 6
-          },
-          "end": {
-            "line": 106,
-            "character": 21
-          }
-        }
-      },
-      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
-      "is_function": false
-    },
-    "config_file": {
-      "location": {
-        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-        "range": {
-          "start": {
-            "line": 691,
-            "character": 8
-          },
-          "end": {
-            "line": 691,
-            "character": 19
-          }
-        }
-      },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-      "is_function": false
-    },
-    "_single": {
-      "location": {
-        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-        "range": {
-          "start": {
-            "line": 616,
-            "character": 6
-          },
-          "end": {
-            "line": 616,
-            "character": 13
-          }
-        }
-      },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-      "is_function": false
-    },
-    "_branch_${_opt}": {
-      "location": {
-        "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-        "range": {
-          "start": {
-            "line": 602,
-            "character": 10
-          },
-          "end": {
-            "line": 602,
-            "character": 25
-          }
-        }
-      },
-      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
-      "is_function": false
-    },
-    "COG_STARTER_COG_LIST": {
-      "location": {
-        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
-        "range": {
-          "start": {
-            "line": 112,
-            "character": 6
-          },
-          "end": {
-            "line": 112,
-            "character": 26
-          }
-        }
-      },
-      "document_info": "defined variable\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
-      "is_function": false
-    },
-    "CogAttachLib": {
-      "location": {
-        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
-        "range": {
-          "start": {
-            "line": 26,
+            "line": 1649,
             "character": 9
           },
           "end": {
-            "line": 26,
-            "character": 21
+            "line": 1649,
+            "character": 32
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "install_default": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1488,
+            "character": 8
+          },
+          "end": {
+            "line": 1488,
+            "character": 23
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "CogExtendsDomain": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 165,
+            "character": 9
+          },
+          "end": {
+            "line": 165,
+            "character": 25
           }
         }
       },
       "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
       "is_function": true
     },
-    "CONFIGURE_PACKAGE_CONFIG_FILE": {
+    "cmp0114": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 3179,
+            "character": 8
+          },
+          "end": {
+            "line": 3179,
+            "character": 15
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_ep_get_complete_stampfile": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2014,
+            "character": 9
+          },
+          "end": {
+            "line": 2014,
+            "character": 35
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "_ep_step_add_target_dependents": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2117,
+            "character": 9
+          },
+          "end": {
+            "line": 2117,
+            "character": 39
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": true
+    },
+    "WRITE_BASIC_PACKAGE_VERSION_FILE": {
       "location": {
         "uri": "file:///usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
         "range": {
           "start": {
-            "line": 446,
-            "character": 9
+            "line": 442,
+            "character": 6
           },
           "end": {
-            "line": 446,
+            "line": 442,
             "character": 38
           }
         }
       },
-      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "document_info": "defined macro\nfrom: /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+      "is_function": true
+    },
+    "CVF_VERSION": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+        "range": {
+          "start": {
+            "line": 51,
+            "character": 10
+          },
+          "end": {
+            "line": 51,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+      "is_function": false
+    },
+    "sep": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1882,
+            "character": 12
+          },
+          "end": {
+            "line": 1882,
+            "character": 15
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "dependencies": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2526,
+            "character": 6
+          },
+          "end": {
+            "line": 2526,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "cmake_generator": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1738,
+            "character": 12
+          },
+          "end": {
+            "line": 1738,
+            "character": 27
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake\n\nuse the same Generator as the current project",
+      "is_function": false
+    },
+    "no_deps": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2144,
+            "character": 8
+          },
+          "end": {
+            "line": 2144,
+            "character": 15
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "_ep_cache_args_script": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2778,
+            "character": 10
+          },
+          "end": {
+            "line": 2778,
+            "character": 31
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "forceArg": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1611,
+            "character": 8
+          },
+          "end": {
+            "line": 1611,
+            "character": 16
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "CogStarterSetEntryPoint": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 154,
+            "character": 9
+          },
+          "end": {
+            "line": 154,
+            "character": 32
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": true
+    },
+    "has_cmake_cache_default_args": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2715,
+            "character": 14
+          },
+          "end": {
+            "line": 2715,
+            "character": 42
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "CogVersion": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 56,
+            "character": 9
+          },
+          "end": {
+            "line": 56,
+            "character": 19
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": true
+    },
+    "logbase": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1900,
+            "character": 6
+          },
+          "end": {
+            "line": 1900,
+            "character": 13
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "${var}_dir": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1507,
+            "character": 10
+          },
+          "end": {
+            "line": 1507,
+            "character": 20
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "env_command": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2326,
+            "character": 8
+          },
+          "end": {
+            "line": 2326,
+            "character": 19
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "code": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 1916,
+            "character": 6
+          },
+          "end": {
+            "line": 1916,
+            "character": 10
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake",
+      "is_function": false
+    },
+    "CogUseCogDomain": {
+      "location": {
+        "uri": "file:///home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 128,
+            "character": 9
+          },
+          "end": {
+            "line": 128,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /home/estorc/Git/Raeptor/RaeptorCogs/Cog/cmake/CogHelpers.cmake",
+      "is_function": true
+    },
+    "_ep_add_configure_command": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/ExternalProject.cmake",
+        "range": {
+          "start": {
+            "line": 2792,
+            "character": 9
+          },
+          "end": {
+            "line": 2792,
+            "character": 34
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/ExternalProject.cmake\n\nTODO: Make sure external projects use the proper compiler",
       "is_function": true
     }
   }
